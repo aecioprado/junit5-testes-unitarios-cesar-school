@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: com.school.cesar.MatrizTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 0.228 s <<< FAILURE! - in com.school.cesar.MatrizTest
+com.school.cesar.MatrizTest.testGetColun  Time elapsed: 0.087 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testGetColun(MatrizTest.java:21)
+
+com.school.cesar.MatrizTest.testNegar  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testNegar(MatrizTest.java:36)
+
+com.school.cesar.MatrizTest.testMultiplicar  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testMultiplicar(MatrizTest.java:46)
+
+com.school.cesar.MatrizTest.testMatrizIntInt  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testMatrizIntInt(MatrizTest.java:11)
+
+com.school.cesar.MatrizTest.testMatrizMatriz  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testMatrizMatriz(MatrizTest.java:51)
+
+com.school.cesar.MatrizTest.testComparaIgual  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testComparaIgual(MatrizTest.java:56)
+
+com.school.cesar.MatrizTest.testSetElemento  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testSetElemento(MatrizTest.java:31)
+
+com.school.cesar.MatrizTest.testMatrizScanner  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testMatrizScanner(MatrizTest.java:41)
+
+com.school.cesar.MatrizTest.testGetLin  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testGetLin(MatrizTest.java:16)
+
+com.school.cesar.MatrizTest.testGetElemento  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.school.cesar.MatrizTest.testGetElemento(MatrizTest.java:26)
+
